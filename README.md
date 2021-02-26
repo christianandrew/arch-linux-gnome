@@ -28,3 +28,4 @@ Theme that I used is Orchis Theme
 
 https://github.com/vinceliuice/Orchis-theme
 
+PS : I have included several wallpapers that I used for my PC and mac-arch(Arch on my Macbook Pro)
