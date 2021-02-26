@@ -24,7 +24,7 @@ https://github.com/vinceliuice/Tela-icon-theme
 
 # Theme
 
-Theme that I use is Orchis Theme
+Theme that I used is Orchis Theme
 
 https://github.com/vinceliuice/Orchis-theme
 
